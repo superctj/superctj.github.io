@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pratik Vaishnavi | Tianji Cong</title>
+    <title>Pratik Vaishnavi on Tianji Cong</title>
     <link>https://superctj.github.io/author/pratik-vaishnavi/</link>
-      <atom:link href="https://superctj.github.io/author/pratik-vaishnavi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pratik Vaishnavi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://superctj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Pratik Vaishnavi</title>
-      <link>https://superctj.github.io/author/pratik-vaishnavi/</link>
-    </image>
-    
+    <description>Recent content in Pratik Vaishnavi on Tianji Cong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://superctj.github.io/author/pratik-vaishnavi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can Attention Masks Improve Adversarial Robustness?</title>
-      <link>https://superctj.github.io/publication/vaishnavi-2020-segmentation/</link>
-      <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/vaishnavi-2020-segmentation/</guid>
+      <link>https://superctj.github.io/publication/seg-defense/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://superctj.github.io/publication/seg-defense/</guid>
       <description></description>
     </item>
     
