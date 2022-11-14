@@ -5,12 +5,28 @@
     <link>https://superctj.github.io/</link>
       <atom:link href="https://superctj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianji Cong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tianji Cong</title>
       <link>https://superctj.github.io/</link>
     </image>
+    
+    <item>
+      <title>Pylon: Semantic Table Union Search in Data Lakes</title>
+      <link>https://superctj.github.io/publication/pylon/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://superctj.github.io/publication/pylon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WarpGate: A Prototype System for Semantic Join Discovery over Cloud Data Warehouses</title>
+      <link>https://superctj.github.io/publication/warpgate/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://superctj.github.io/publication/warpgate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sneakoscope: Revisiting Unsupervised OOD Detection</title>
