@@ -5,7 +5,7 @@
     <link>https://superctj.github.io/author/atul-prakash/</link>
       <atom:link href="https://superctj.github.io/author/atul-prakash/index.xml" rel="self" type="application/rss+xml" />
     <description>Atul Prakash</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Atul Prakash</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Can Attention Masks Improve Adversarial Robustness?</title>
       <link>https://superctj.github.io/publication/seg-defense/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://superctj.github.io/publication/seg-defense/</guid>
       <description></description>
     </item>

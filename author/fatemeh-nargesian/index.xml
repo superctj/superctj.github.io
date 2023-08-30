@@ -5,7 +5,7 @@
     <link>https://superctj.github.io/author/fatemeh-nargesian/</link>
       <atom:link href="https://superctj.github.io/author/fatemeh-nargesian/index.xml" rel="self" type="application/rss+xml" />
     <description>Fatemeh Nargesian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Fatemeh Nargesian</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Pylon: Semantic Table Union Search in Data Lakes</title>
       <link>https://superctj.github.io/publication/pylon/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://superctj.github.io/publication/pylon/</guid>
       <description></description>
     </item>

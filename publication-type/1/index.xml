@@ -5,20 +5,12 @@
     <link>https://superctj.github.io/publication-type/1/</link>
       <atom:link href="https://superctj.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 02 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://superctj.github.io/publication-type/1/</link>
     </image>
-    
-    <item>
-      <title>Pylon: Semantic Table Union Search in Data Lakes</title>
-      <link>https://superctj.github.io/publication/pylon/</link>
-      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/pylon/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>WarpGate: A Prototype System for Semantic Join Discovery over Cloud Data Warehouses</title>
@@ -31,8 +23,16 @@
     <item>
       <title>Can Attention Masks Improve Adversarial Robustness?</title>
       <link>https://superctj.github.io/publication/seg-defense/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://superctj.github.io/publication/seg-defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pylon: Semantic Table Union Search in Data Lakes</title>
+      <link>https://superctj.github.io/publication/pylon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://superctj.github.io/publication/pylon/</guid>
       <description></description>
     </item>
     
