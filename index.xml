@@ -29,22 +29,6 @@
     </item>
     
     <item>
-      <title>Sneakoscope: Revisiting Unsupervised OOD Detection</title>
-      <link>https://superctj.github.io/publication/sneakoscope/</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/sneakoscope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GhostWriter: Query Efficient Document-Level Rewriting Attacks on Black Box Text Classifiers</title>
-      <link>https://superctj.github.io/publication/ghostwriter/</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/ghostwriter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Can Attention Masks Improve Adversarial Robustness?</title>
       <link>https://superctj.github.io/publication/seg-defense/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
