@@ -5,20 +5,12 @@
     <link>https://superctj.github.io/author/h.-v.-jagadish/</link>
       <atom:link href="https://superctj.github.io/author/h.-v.-jagadish/index.xml" rel="self" type="application/rss+xml" />
     <description>H. V. Jagadish</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>H. V. Jagadish</title>
       <link>https://superctj.github.io/author/h.-v.-jagadish/</link>
     </image>
-    
-    <item>
-      <title>Introducing the Observatory Library for End-to-End Table Embedding Inference</title>
-      <link>https://superctj.github.io/publication/observatory_library/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/observatory_library/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Observatory: Characterizing Embeddings of Relational Tables</title>
