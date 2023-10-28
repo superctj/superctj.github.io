@@ -5,7 +5,7 @@
     <link>https://superctj.github.io/publication-type/1/</link>
       <atom:link href="https://superctj.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Introducing the Observatory Library for End-to-End Table Embedding Inference</title>
       <link>https://superctj.github.io/publication/observatory_library/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://superctj.github.io/publication/observatory_library/</guid>
       <description></description>
     </item>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>WarpGate: A Prototype System for Semantic Join Discovery over Cloud Data Warehouses (CIDR 2023)</title>
+      <title>WarpGate: A Prototype System for Semantic Join Discovery over Cloud Data Warehouses</title>
       <link>https://superctj.github.io/publication/warpgate/</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://superctj.github.io/publication/warpgate/</guid>
