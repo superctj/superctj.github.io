@@ -5,52 +5,12 @@
     <link>https://superctj.github.io/author/tianji-cong/</link>
       <atom:link href="https://superctj.github.io/author/tianji-cong/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianji Cong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tianji Cong</title>
       <link>https://superctj.github.io/author/tianji-cong/</link>
     </image>
-    
-    <item>
-      <title>Introducing the Observatory Library for End-to-End Table Embedding Inference</title>
-      <link>https://superctj.github.io/publication/observatory_library/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/observatory_library/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Observatory: Characterizing Embeddings of Relational Tables</title>
-      <link>https://superctj.github.io/publication/observatory/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/observatory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WarpGate: A Prototype System for Semantic Join Discovery over Cloud Data Warehouses</title>
-      <link>https://superctj.github.io/publication/warpgate/</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/warpgate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pylon: Semantic Table Union Search in Data Lakes</title>
-      <link>https://superctj.github.io/publication/pylon/</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/pylon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can Attention Masks Improve Adversarial Robustness?</title>
-      <link>https://superctj.github.io/publication/seg-defense/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://superctj.github.io/publication/seg-defense/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
