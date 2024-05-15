@@ -102,9 +102,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Tianji92441841
-    # label: Follow me on Twitter
-    display:
-      header: true
+    label: Follow me on Twitter
+    # display:
+    #   header: true
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
