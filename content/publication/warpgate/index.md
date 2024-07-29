@@ -8,7 +8,7 @@ authors:
   - admin
   - James Gale
   - Jason Frantz
-  - H. V. Jagadish
+  - jag
   - Çağatay Demiralp
 
 # Author notes (optional)

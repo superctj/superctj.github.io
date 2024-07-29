@@ -7,7 +7,7 @@ title: "Pylon: Semantic Table Union Search in Data Lakes"
 authors:
   - admin
   - Fatemeh Nargesian
-  - H. V. Jagadish
+  - jag
 
 # Author notes (optional)
 # author_notes:

@@ -90,12 +90,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:congtj@umich.edu
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=3ToRqNMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/superctj
+  - icon: google-scholar # use `graduation-cap` icon from `fab` icon pack or `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3ToRqNMAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tianji-cong-320659160
@@ -116,6 +116,4 @@ social:
 highlight_name: true
 ---
 
-Tianji Cong is a Ph.D. candidate at the University of Michigan Computer Science & Engineering Division. He is advised by Professor H. V. Jagadish and affiliated with the Database Research Group. His research interest falls at the intersection of deep learning and data management for structured and semi-structured data. He is working on building a semantic layer over data stores to make data findable and (re)usable.
-<!-- The line of work he is pushing forward revolves around representation learning for tabular data discovery, semantics understanding, and database performance optimization. -->
-{style="text-align: justify;"}
+Tianji Cong is a Ph.D. candidate and a Rackham Predoctoral Fellow at the University of Michigan. He is advised by Professor H. V. Jagadish and affiliated with the Database Research Group. His research interest falls at the intersection of data management and representation learning for structured and semi-structured data. The line of work he has been pushing forward revolves around building a semantic layer over data stores to make data findable and (re)usable.

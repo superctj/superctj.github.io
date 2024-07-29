@@ -9,7 +9,7 @@ authors:
   - Madelon Hulsebos
   - Zhenjie Sun
   - Paul Groth
-  - H. V. Jagadish
+  - jag
 
 # Author notes (optional)
 # author_notes:

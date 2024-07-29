@@ -127,33 +127,57 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
+  - block: collection
+    id: recent-news
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: "Recent News"
+      subtitle: ""
+      count: 6
+      filters:
+        folders:
+          - news
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      columns: '2'
+      view: compact
+    # - block: collection
+    # id: posts
+    # content:
+    #   title: Recent Posts
+    #   subtitle: ''
+    #   text: ''
+    #   # Choose how many pages you would like to display (0 = all pages)
+    #   count: 10
+    #   # Filter on criteria
+    #   filters:
+    #     folders:
+    #       - post
+    #     author: ""
+    #     category: ""
+    #     tag: ""
+    #     exclude_featured: false
+    #     exclude_future: false
+    #     exclude_past: false
+    #     publication_type: ""
+    #   # Choose how many pages you would like to offset by
+    #   offset: 0
+    #   # Page order: descending (desc) or ascending (asc) date.
+    #   order: desc
+    # design:
+    #   # Choose a layout view
+    #   view: compact
+    #   columns: '2'
   # - block: portfolio
   #   id: projects
   #   content:
@@ -190,30 +214,16 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: featured
+    id: featured-publication
     content:
-      title: Featured Publications
+      title: Featured Publication
       filters:
         folders:
           - publication
         featured_only: true
     design:
       columns: '2'
-      view: compact
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
